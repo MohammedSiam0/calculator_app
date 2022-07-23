@@ -55,15 +55,16 @@ class _CalculatorState extends State<Calculator> {
             Container(
               alignment: AlignmentDirectional.center,
               height: 100,
-              padding: EdgeInsets.all(10),
+              padding: EdgeInsets.symmetric(vertical: 10),
               color: Colors.grey.shade100,
               child: Row(
+
                 mainAxisAlignment: MainAxisAlignment.start,
                 children: <Widget>[
                   Text(
-                    '$finalResult',
+                    " $num1  $opr  $num2 = $finalResult",
                     textAlign: TextAlign.left,
-                    style: TextStyle(color: Colors.black, fontSize: 50),
+                    style: TextStyle(color: Colors.black, fontSize: 30),
                   ),
                 ],
               ),
