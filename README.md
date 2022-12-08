@@ -1,10 +1,10 @@
 # Hi there, I'm Mohammed Siam [mohammedsiam][linkedin] 👋
 Hire me here
-[[upwork](https://www.upwork.com/freelancers/~013b7bc9d95926904b)][upwork]
+[upwork](https://www.upwork.com/freelancers/~013b7bc9d95926904b)
 Or
-[github](https://github.com/MohammedSiam0)[github]
+[github](https://github.com/MohammedSiam0)
 or
-[[linkedin](https://www.linkedin.com/in/mohammedsiam)][linkedin]
+[linkedin](https://www.linkedin.com/in/mohammedsiam)
 
 ## I'm a Mohammed, Mobile Developer Flutter  (Android,Ios), Passionate and ambitious person !!
 
