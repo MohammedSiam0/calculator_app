@@ -16,8 +16,7 @@ or
 
  
 <img align="left" alt="vscode" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />
-
-[![linkedin](https://www.linkedin.com/in/mohammedsiam/)][linkedin]
+[linkedin](https://www.linkedin.com/in/mohammedsiam/)
 <br />
 
 ### Languages and Tools:
